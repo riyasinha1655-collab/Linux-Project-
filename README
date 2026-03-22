@@ -1,0 +1,31 @@
+Project Overview
+
+This project analyzes Python as an open-source software, covering its origin, license, Linux usage, ecosystem, and comparison with proprietary software. It also includes 5 shell scripts demonstrating Linux skills.
+
+Files Included
+report.pdf — Project report
+script1_system_identity.sh
+script2_package_inspector.sh
+script3_disk_auditor.sh
+script4_log_analyzer.sh
+script5_manifesto_generator.sh
+Requirements
+Linux system
+Bash shell
+Python3
+Basic tools (grep, awk)
+How to Run
+chmod +x *.sh
+./script_name.sh
+Scripts Summary
+Script 1: System info display
+Script 2: Check Python installation
+Script 3: Directory size & permissions
+
+🌍 About Python
+
+Created by Guido van Rossum and maintained by Python Software Foundation, Python is widely used in AI, web development, and automation.
+
+📌 Conclusion
+
+This project demonstrates understanding of open-source concepts, Linux environment, and shell scripting.
